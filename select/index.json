@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "なつ",
+  "base_artist": "空白ごっこ",
+  "createdAt": "2026-01-13T22:54:35.084389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いろ、なつ、ゆめ ~ 彩 夏 夢",
+      "artist": "石川セリ",
+      "has_synced": true,
+      "path": "select/01_いろ、なつ、ゆめ_~_彩_夏_夢_石川セリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彩・夏・夢（いろ、なつ、ゆめ）",
+      "artist": "石川セリ",
+      "has_synced": true,
+      "path": "select/02_彩・夏・夢(いろ、なつ、ゆめ)_石川セリ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なつ おん ぶる ー",
+      "artist": "You'll Melt More!",
+      "has_synced": false,
+      "path": "select/03_なつ_おん_ぶる_ー_You'll_Melt_More!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なつ",
+      "artist": "空白ごっこ",
+      "has_synced": false,
+      "path": "select/pl_01_なつ_空白ごっこ.txt"
+    }
+  ]
+}
